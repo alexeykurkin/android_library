@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.kurkin_library"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.kurkin_library"
