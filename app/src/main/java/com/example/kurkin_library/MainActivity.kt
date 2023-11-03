@@ -1,4 +1,4 @@
-package com.example.kurkin_library
+package edu.muvitte.library
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
