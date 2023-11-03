@@ -1,4 +1,4 @@
-package edu.muvitte.library
+package com.example.kurkin_library
 
 import java.util.Date
 import java.util.UUID
